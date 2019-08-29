@@ -1,12 +1,11 @@
-﻿# MS Access HTTP сервер (Python)
-Получение данных из Microsoft Access базы в с помощью HTTP запроса. Формат выходных данных: JSON, CSV, HTML. Также можно выполнять запросы на добавление, изменение, обновление данных.
-<!--more-->
-Пример HTML-выдачи:
-<p align="center">
+﻿<p align="center">
 	<img src="https://i2.imageban.ru/out/2019/08/28/3bfe6d67ba91d57e27dfb3a5bb7072e5.png">
 </p>
 
-JSON:
+Получение данных из Microsoft Access базы в с помощью HTTP запроса. Формат выходных данных: JSON, CSV, HTML. Также можно выполнять запросы на добавление, изменение, обновление данных.
+<!--more-->
+
+Пример JSON-выдачи:
 <p align="center">
 	<img src="https://i3.imageban.ru/out/2019/08/28/697acf81efae57c4c0633e182b8bc183.png">
 </p>
