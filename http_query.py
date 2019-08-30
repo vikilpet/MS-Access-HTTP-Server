@@ -3,7 +3,6 @@ import os
 import time
 import json
 import csv
-import subprocess
 import configparser
 import io
 import pandas

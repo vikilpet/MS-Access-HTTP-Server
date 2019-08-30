@@ -4,6 +4,7 @@
 
 Получение данных из Microsoft Access базы в с помощью HTTP запроса. Формат выходных данных: JSON, CSV, HTML. Также можно выполнять запросы на добавление, изменение, обновление данных.
 <!--more-->
+Исходный код: [https://github.com/vikilpet/MS-Access-HTTP-Server](https://github.com/vikilpet/MS-Access-HTTP-Server)
 
 Пример JSON-выдачи:
 <p align="center">
